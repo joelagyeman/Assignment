@@ -1,5 +1,6 @@
 //This is my first dynamic method
 public class FirstDynamic {
+    
     public void dayOfTheWeek() {
         int day = 7;
         String dayString = "";

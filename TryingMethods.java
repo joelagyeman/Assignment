@@ -1,20 +1,10 @@
 public class TryingMethods {
  public static void main(String[] args) {
+      FirstStatic.WhileTest();
+      SecondStatic.EvenNumbers();
     
  }
-  public void name() {
-    
-  }
   
 
-  public void name() {
-    
-  }
-
-  public static void name() {
-    
-  }
-  public static void name() {
-    
-  }
+ 
 }
