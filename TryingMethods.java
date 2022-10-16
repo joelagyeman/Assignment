@@ -1,4 +1,4 @@
-public class Methods {
+public class TryingMethods {
     public static void name() {
         
     }
